@@ -1,1 +1,1 @@
-git@github.com:darya-dolidze/second-project.git
+git@github.com:darya-dolidze/ono-tebe-nado.git
